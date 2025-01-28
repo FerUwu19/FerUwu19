@@ -89,7 +89,7 @@ Here are some ideas to get you started:
        <a href="mailto:mfsv1905@gmail.com" target="_blank" style="text-decoration:none;">
       <img src="./assets/icon-mail.png"  width="40" height="40" />
     </a>  
-    <a href="tel:+50687842491" target="_blank" style="text-decoration:none;">
+    <a href="tel:+50687842491" target="_blank" style="text-decoration:none; padding-bottom:5 px;">
       <img src="./assets/icon-cell.png"  width="40" height="40" />
     </a>  
   </p>
