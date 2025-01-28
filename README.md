@@ -83,13 +83,13 @@ Here are some ideas to get you started:
 <br/><div align="center">
   <p style="display: flex; align-items: flex-start; gap: 20px;">
     <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
-      <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" width="50" height="50" />
+      <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" width="60" height="60" />
     </a>
     <a href="mailto:mfsv1905@gmail.com" target="_blank" style="text-decoration:none;">
-      <img src="./assets/icon-mail.png" width="40" height="40" />
+      <img src="./assets/icon-mail.png" width="50" height="50" />
     </a>
     <a href="tel:+50687842491" target="_blank" style="text-decoration:none;">
-      <img src="./assets/icon-cell.png" width="40" height="40" />
+      <img src="./assets/icon-cell.png" width="50" height="50" />
     </a>
   </p>
 </div>
