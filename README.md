@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-<h4>Data analysis & BI tools/h4>
+<h4>Data analysis & BI tools</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/KNIME-FE7A16?style=flat&logo=knime&logoColor=black" alt="KNIME" />
   <img src="https://img.shields.io/badge/Pentaho-005084?style=flat&logo=data-visualization&logoColor=white" alt="Pentaho" />
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <h2>Contact me </h2>
 
 <br/><div align="center">
-  <p style="display: flex; align-items: flex-start; gap: 20px;">
+  <p style="display: flex; align-items: flex-start; gap: 20px; text-decoration:none;">
     <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
       <img src="./assets/icon-linkendin.png" width="50" height="50" />
     </a>
