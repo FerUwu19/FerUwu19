@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <br/>
 <p>
   <a href="www.linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
-      <img href="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkendIn" />
+      <img href="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="LinkendIn" />
   </a>  
 </p>
 
