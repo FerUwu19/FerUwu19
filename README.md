@@ -75,9 +75,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
 </p>
 
+
+<br/>
+
+<h2>Contact me </h2>
+
 <br/>
 <a href="www.linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
-    <button style="background-color:#0077B5;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">
-        LinkedIn
-    </button>
+    <img href="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
 </a>
