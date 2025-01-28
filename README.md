@@ -81,6 +81,9 @@ Here are some ideas to get you started:
 <h2>Contact me </h2>
 
 <br/>
-<a href="www.linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
-    <img href="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
-</a>
+<p>
+  <a href="www.linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
+      <img href="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkendIn" />
+  </a>  
+</p>
+
