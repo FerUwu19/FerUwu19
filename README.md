@@ -86,13 +86,9 @@ Here are some ideas to get you started:
     <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
       <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png"  width="50" height="50" />
     </a>  
-  </p>
-    <p>
-    <a href="mailto:mfsv1905@gmail.com" target="_blank" style="text-decoration:none;">
+       <a href="mailto:mfsv1905@gmail.com" target="_blank" style="text-decoration:none;">
       <img src="./assets/mail.png"  width="50" height="50" />
     </a>  
-  </p>
-    <p>
     <a href="tel:+50687842491" target="_blank" style="text-decoration:none;">
       <img src="./assets/cel.png"  width="50" height="50" />
     </a>  
