@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 
 <br/>
 <p>
-  <a href="www.linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
-      <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="" />
+  <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
+    <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png"  width="50" height="50" />
   </a>  
 </p>
 
