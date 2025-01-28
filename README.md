@@ -15,15 +15,22 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h3>About me </h3>
+<h2>About me </h2>
 
 • Knowledge about backend, frontend, databases and data analysis <br/>
 • Passionate in the graphic/web design and UX/UI <br/>
 • I'm currently learning about Ruby on rails <br/>
 • I'm deeply interested in working with you, this <a href="Resume - Ma Fernanda Sanchez - Developer.pdf" target="_blank">resume</a> to know more about me! <br/>
 <br/>
-<h3>Skills</h3>
-<h5>Front-end</h5>
+
+<h2>Skills</h2>
+<h4>Front-end</h4>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <h5>Back-end</h5>
 
