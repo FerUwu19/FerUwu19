@@ -89,12 +89,12 @@ Here are some ideas to get you started:
   </p>
     <p>
     <a href="mailto:mfsv1905@gmail.com" target="_blank" style="text-decoration:none;">
-      <img src="https://w7.pngwing.com/pngs/4/365/png-transparent-computer-icons-email-email-miscellaneous-trademark-logo-thumbnail.png"  width="50" height="50" />
+      <img src="./assets/mail.png"  width="50" height="50" />
     </a>  
   </p>
     <p>
     <a href="tel:+50687842491" target="_blank" style="text-decoration:none;">
-      <img src="https://spng.pngfind.com/pngs/s/29-290812_mobile-phone-icon-phone-icon-png-gray-transparent.png"  width="50" height="50" />
+      <img src="./assets/cel.png"  width="50" height="50" />
     </a>  
   </p>
 </div>
