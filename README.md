@@ -1,4 +1,4 @@
-<h1> Hi, I'm Fer Sánchez Vaverde </h1>
+<h1> Hi, I'm Fer Sánchez</h1>
 
 <!--
 Here are some ideas to get you started:
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 • Knowledge about backend, frontend, databases and data analysis <br/>
 • Passionate in the graphic/web design and UX/UI <br/>
 • I'm currently learning about Ruby on rails <br/>
-• I'm deeply interested in working with you, this <a>resume</a> to know more about me! <br/>
+• I'm deeply interested in working with you, this <a href="Resume - Ma Fernanda Sanchez - Developer.pdf" target="_blank">resume</a> to know more about me! <br/>
 <br/>
 <h3>Skills</h3>
 <h5>Front-end</h5>
