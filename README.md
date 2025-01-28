@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 
 <h2>Skills</h2>
 <h4>Front-end</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 <h4>Back-end</h4>
 <p align="left">
@@ -36,13 +42,38 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat&logo=.net&logoColor=white" alt="ASP.NET MVC" />
 </p>
 
-<h5>Databases</h5>
+<h4>Databases</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-<h5>Data analysis/h5>
+<h4>Data analysis & BI tools/h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/KNIME-FE7A16?style=flat&logo=knime&logoColor=black" alt="KNIME" />
+  <img src="https://img.shields.io/badge/Pentaho-005084?style=flat&logo=data-visualization&logoColor=white" alt="Pentaho" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Qlik-3A4ED2?style=flat&logo=qlik&logoColor=white" alt="Qlik" />
+</p>
+  
+<h4>Development tools</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=flat&logo=flutter&logoColor=white" alt="FlutterFlow" />
+</p>
 
-<h5>Development tools</h5>
-
-<h5>Design tools</h5>
+<h4>Design tools</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+</p>
 
 <br/>
 <a href="www.linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
