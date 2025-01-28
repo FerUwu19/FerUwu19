@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h2>About me </h2>
 
+• My complete name is María Fernanda Sánchez Valverde <br/>
 • Knowledge about backend, frontend, databases and data analysis <br/>
 • Passionate in the graphic/web design and UX/UI <br/>
 • I'm currently learning about Ruby on rails <br/>
