@@ -1,4 +1,4 @@
-<h1> Hi, I'm Fer Sánchez</h1>
+<h1 align="center"> Hi, I'm Fer Sánchez</h1>
 
 <!--
 Here are some ideas to get you started:
