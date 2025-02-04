@@ -83,18 +83,18 @@ Here are some ideas to get you started:
 <div align="left">
   <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none; display: flex; align-items: center; ">
     <img src="./assets/icon-linkedin.png" width="35" height="35" />
-    <span>María Fernanda Sánchez Valverde</span>
   </a> 
+  <span >María Fernanda Sánchez Valverde</span>
   <br/>
   <a href="mailto:mfsv1905@gmail.com" target="_blank" style="text-decoration:none; display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
     <img src="./assets/icon-mail.png" width="35" height="35" />
-    <span>mfsv1905@gmail.com</span>
   </a> 
+  <span>mfsv1905@gmail.com</span>
   <br/>
   <a href="tel:+50687842491" target="_blank" style="text-decoration:none; display: flex; align-items: center; gap: 10px;">
     <img src="./assets/icon-cell.png" width="35" height="35" />
-    <span>+506 8784 2491</span>
   </a>
+  <span>+506 8784 2491</span>
 </div>
 
 
