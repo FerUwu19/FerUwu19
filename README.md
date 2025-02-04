@@ -1,4 +1,4 @@
-<h1> Hi, I'm Fer Sánchez</h1>
+<h1 align="center"> Hi, I'm Fer Sánchez 👋🏻</h1>
 
 <!--
 Here are some ideas to get you started:
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <h2>About me </h2>
 
-• My complete name is María Fernanda Sánchez Valverde <br/>
-• Knowledge about backend, frontend, databases and data analysis <br/>
-• Passionate in the graphic/web design and UX/UI <br/>
-• I'm currently learning about Ruby on rails <br/>
-• I'm deeply interested in working with you, this <a href="Resume - Ma Fernanda Sanchez - Developer.pdf" target="_blank">resume</a> to know more about me! <br/>
+• My complete name is María Fernanda Sánchez Valverde 🙍 <br/>
+• Knowledge about backend, frontend, databases and data analysis 🖥️ <br/>
+• Passionate in the graphic/web design and UX/UI 🤍 <br/>
+• I'm currently learning about Ruby on rails 📚 <br/>
+• I'm deeply interested in working with you, this <a href="Resume - Ma Fernanda Sanchez - Developer.pdf" target="_blank">resume</a> to know more about me! 👯<br/>
 <br/>
 
 <h2>Skills</h2>
