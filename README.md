@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="./assets/banner_github.jpg" align="center" alt="header image">
 <br/>
 
 <h2>About me </h2>
