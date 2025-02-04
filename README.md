@@ -80,16 +80,16 @@ Here are some ideas to get you started:
 
 <h2>Contact me </h2>
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
       <img src="./assets/icon-linkendin.png" width="35" height="35" />
-    </a> María Fernanda Sánchez Valverde <br/>
+    </a>
     <a href="mailto:mfsv1905@gmail.com" target="_blank" style="text-decoration:none;">
       <img src="./assets/icon-mail.png" width="35" height="35" />
-    </a>mfsv1905@gmail.com <br/>
+    </a>
     <a href="tel:+50687842491" target="_blank" style="text-decoration:none;">
       <img src="./assets/icon-cell.png" width="35" height="35" />
-    </a> +506 8784 2491
+    </a>
 </div>
 
 
