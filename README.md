@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat&logo=.net&logoColor=white" alt="ASP.NET MVC" />
 </p>
 
@@ -81,15 +80,18 @@ Here are some ideas to get you started:
 
 <h2>Contact me </h2>
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none;">
       <img src="./assets/icon-linkendin.png" width="35" height="35" />
+      María Fernanda Sánchez Valverde
     </a>
     <a href="mailto:mfsv1905@gmail.com" target="_blank" style="text-decoration:none;">
       <img src="./assets/icon-mail.png" width="35" height="35" />
+      mfsv1905@gmail.com
     </a>
     <a href="tel:+50687842491" target="_blank" style="text-decoration:none;">
       <img src="./assets/icon-cell.png" width="35" height="35" />
+      +506 8784 2491
     </a>
 </div>
 
