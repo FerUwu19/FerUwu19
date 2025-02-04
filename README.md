@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <h2>Contact me </h2>
 
 <div align="left">
-  <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none; display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+  <a href="https://linkedin.com/in/mariafernandasv" target="_blank" style="text-decoration:none; display: flex; align-items: center; ">
     <img src="./assets/icon-linkedin.png" width="35" height="35" />
     <span>María Fernanda Sánchez Valverde</span>
   </a> 
